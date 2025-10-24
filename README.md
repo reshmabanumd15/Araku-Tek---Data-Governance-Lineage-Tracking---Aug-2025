@@ -1,4 +1,4 @@
-# Project: Data Governance & Lineage Tracking (Pro Edition)
+# Project: Data Governance & Lineage Tracking 
 
 A production-style toolkit for **metadata governance + end-to-end lineage tracking**
 on a medallion-style data lake (S3 + Glue Data Catalog) with integration points for
@@ -16,4 +16,4 @@ catalog snapshots, lineage graphs, schema change diffs, Airflow orchestration, a
 - **Docs**: framework design, runbooks, monitoring, UX notes for the dashboard
 - **CI**: flake8 + pytest for core modules
 
-> Replace placeholders (buckets, roles, connections) if you wire this to AWS.
+
