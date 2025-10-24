@@ -1,0 +1,4 @@
+- Airflow DAG durations and task failures
+- Inventory object counts per day
+- DQ coverage trend by domain
+- Graph node/edge counts

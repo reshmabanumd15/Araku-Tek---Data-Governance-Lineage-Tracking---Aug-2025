@@ -1,0 +1,9 @@
+type_norm,count
+timestamp,670
+string,667
+decimal,666
+double,650
+boolean,627
+bigint,625
+int,625
+date,615

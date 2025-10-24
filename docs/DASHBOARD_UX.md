@@ -1,0 +1,3 @@
+- Node search & filter (domain/layer)
+- Hover to display DQ scores
+- Pin frequently used paths

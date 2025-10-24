@@ -1,0 +1,22 @@
+{
+  "table_fields": [
+    "schema",
+    "table",
+    "layer",
+    "domain",
+    "format"
+  ],
+  "column_fields": [
+    "schema",
+    "table",
+    "column",
+    "type"
+  ],
+  "dq_fields": [
+    "schema",
+    "table",
+    "completeness",
+    "uniqueness",
+    "validity"
+  ]
+}

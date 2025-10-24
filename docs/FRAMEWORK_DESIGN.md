@@ -1,0 +1,4 @@
+- Metadata sources: Glue Data Catalog snapshots, S3 inventory
+- Lineage: node types (table, dataset), edge ops (transform, aggregate, publish)
+- DQ metrics joined on (schema, table)
+- Artifacts: graphml, CSVs, KPI JSON, diffs

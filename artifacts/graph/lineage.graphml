@@ -1,0 +1,913 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="op" attr.type="string"/>
+<graph edgedefault="directed"><node id="bi.clicks_bi_01"/>
+<node id="bi.clicks_bi_02"/>
+<node id="bi.clicks_bi_03"/>
+<node id="bi.clicks_bi_04"/>
+<node id="bi.clicks_bi_05"/>
+<node id="bi.clicks_bi_06"/>
+<node id="bi.clicks_bi_07"/>
+<node id="bi.clicks_bi_08"/>
+<node id="bi.clicks_bi_09"/>
+<node id="bi.clicks_bi_10"/>
+<node id="bi.customer_bi_01"/>
+<node id="bi.customer_bi_02"/>
+<node id="bi.customer_bi_03"/>
+<node id="bi.customer_bi_04"/>
+<node id="bi.customer_bi_05"/>
+<node id="bi.customer_bi_06"/>
+<node id="bi.customer_bi_07"/>
+<node id="bi.customer_bi_08"/>
+<node id="bi.customer_bi_09"/>
+<node id="bi.customer_bi_10"/>
+<node id="bi.inventory_bi_01"/>
+<node id="bi.inventory_bi_02"/>
+<node id="bi.inventory_bi_03"/>
+<node id="bi.inventory_bi_04"/>
+<node id="bi.inventory_bi_05"/>
+<node id="bi.inventory_bi_06"/>
+<node id="bi.inventory_bi_07"/>
+<node id="bi.inventory_bi_08"/>
+<node id="bi.inventory_bi_09"/>
+<node id="bi.inventory_bi_10"/>
+<node id="bi.orders_bi_01"/>
+<node id="bi.orders_bi_02"/>
+<node id="bi.orders_bi_03"/>
+<node id="bi.orders_bi_04"/>
+<node id="bi.orders_bi_05"/>
+<node id="bi.orders_bi_06"/>
+<node id="bi.orders_bi_07"/>
+<node id="bi.orders_bi_08"/>
+<node id="bi.orders_bi_09"/>
+<node id="bi.orders_bi_10"/>
+<node id="bi.pricing_bi_01"/>
+<node id="bi.pricing_bi_02"/>
+<node id="bi.pricing_bi_03"/>
+<node id="bi.pricing_bi_04"/>
+<node id="bi.pricing_bi_05"/>
+<node id="bi.pricing_bi_06"/>
+<node id="bi.pricing_bi_07"/>
+<node id="bi.pricing_bi_08"/>
+<node id="bi.pricing_bi_09"/>
+<node id="bi.pricing_bi_10"/>
+<node id="bi.sessions_bi_01"/>
+<node id="bi.sessions_bi_02"/>
+<node id="bi.sessions_bi_03"/>
+<node id="bi.sessions_bi_04"/>
+<node id="bi.sessions_bi_05"/>
+<node id="bi.sessions_bi_06"/>
+<node id="bi.sessions_bi_07"/>
+<node id="bi.sessions_bi_08"/>
+<node id="bi.sessions_bi_09"/>
+<node id="bi.sessions_bi_10"/>
+<node id="bi.transactions_bi_01"/>
+<node id="bi.transactions_bi_02"/>
+<node id="bi.transactions_bi_03"/>
+<node id="bi.transactions_bi_04"/>
+<node id="bi.transactions_bi_05"/>
+<node id="bi.transactions_bi_06"/>
+<node id="bi.transactions_bi_07"/>
+<node id="bi.transactions_bi_08"/>
+<node id="bi.transactions_bi_09"/>
+<node id="bi.transactions_bi_10"/>
+<node id="mart.clicks_gold_01"/>
+<node id="mart.clicks_gold_02"/>
+<node id="mart.clicks_gold_03"/>
+<node id="mart.clicks_gold_04"/>
+<node id="mart.clicks_gold_05"/>
+<node id="mart.clicks_gold_06"/>
+<node id="mart.clicks_gold_07"/>
+<node id="mart.clicks_gold_08"/>
+<node id="mart.clicks_gold_09"/>
+<node id="mart.clicks_gold_10"/>
+<node id="mart.customer_gold_01"/>
+<node id="mart.customer_gold_02"/>
+<node id="mart.customer_gold_03"/>
+<node id="mart.customer_gold_04"/>
+<node id="mart.customer_gold_05"/>
+<node id="mart.customer_gold_06"/>
+<node id="mart.customer_gold_07"/>
+<node id="mart.customer_gold_08"/>
+<node id="mart.customer_gold_09"/>
+<node id="mart.customer_gold_10"/>
+<node id="mart.inventory_gold_01"/>
+<node id="mart.inventory_gold_02"/>
+<node id="mart.inventory_gold_03"/>
+<node id="mart.inventory_gold_04"/>
+<node id="mart.inventory_gold_05"/>
+<node id="mart.inventory_gold_06"/>
+<node id="mart.inventory_gold_07"/>
+<node id="mart.inventory_gold_08"/>
+<node id="mart.inventory_gold_09"/>
+<node id="mart.inventory_gold_10"/>
+<node id="mart.orders_gold_01"/>
+<node id="mart.orders_gold_02"/>
+<node id="mart.orders_gold_03"/>
+<node id="mart.orders_gold_04"/>
+<node id="mart.orders_gold_05"/>
+<node id="mart.orders_gold_06"/>
+<node id="mart.orders_gold_07"/>
+<node id="mart.orders_gold_08"/>
+<node id="mart.orders_gold_09"/>
+<node id="mart.orders_gold_10"/>
+<node id="mart.pricing_gold_01"/>
+<node id="mart.pricing_gold_02"/>
+<node id="mart.pricing_gold_03"/>
+<node id="mart.pricing_gold_04"/>
+<node id="mart.pricing_gold_05"/>
+<node id="mart.pricing_gold_06"/>
+<node id="mart.pricing_gold_07"/>
+<node id="mart.pricing_gold_08"/>
+<node id="mart.pricing_gold_09"/>
+<node id="mart.pricing_gold_10"/>
+<node id="mart.sessions_gold_01"/>
+<node id="mart.sessions_gold_02"/>
+<node id="mart.sessions_gold_03"/>
+<node id="mart.sessions_gold_04"/>
+<node id="mart.sessions_gold_05"/>
+<node id="mart.sessions_gold_06"/>
+<node id="mart.sessions_gold_07"/>
+<node id="mart.sessions_gold_08"/>
+<node id="mart.sessions_gold_09"/>
+<node id="mart.sessions_gold_10"/>
+<node id="mart.transactions_gold_01"/>
+<node id="mart.transactions_gold_02"/>
+<node id="mart.transactions_gold_03"/>
+<node id="mart.transactions_gold_04"/>
+<node id="mart.transactions_gold_05"/>
+<node id="mart.transactions_gold_06"/>
+<node id="mart.transactions_gold_07"/>
+<node id="mart.transactions_gold_08"/>
+<node id="mart.transactions_gold_09"/>
+<node id="mart.transactions_gold_10"/>
+<node id="raw.clicks_bronze_01"/>
+<node id="raw.clicks_bronze_02"/>
+<node id="raw.clicks_bronze_03"/>
+<node id="raw.clicks_bronze_04"/>
+<node id="raw.clicks_bronze_05"/>
+<node id="raw.clicks_bronze_06"/>
+<node id="raw.clicks_bronze_07"/>
+<node id="raw.clicks_bronze_08"/>
+<node id="raw.clicks_bronze_09"/>
+<node id="raw.clicks_bronze_10"/>
+<node id="raw.customer_bronze_01"/>
+<node id="raw.customer_bronze_02"/>
+<node id="raw.customer_bronze_03"/>
+<node id="raw.customer_bronze_04"/>
+<node id="raw.customer_bronze_05"/>
+<node id="raw.customer_bronze_06"/>
+<node id="raw.customer_bronze_07"/>
+<node id="raw.customer_bronze_08"/>
+<node id="raw.customer_bronze_09"/>
+<node id="raw.customer_bronze_10"/>
+<node id="raw.inventory_bronze_01"/>
+<node id="raw.inventory_bronze_02"/>
+<node id="raw.inventory_bronze_03"/>
+<node id="raw.inventory_bronze_04"/>
+<node id="raw.inventory_bronze_05"/>
+<node id="raw.inventory_bronze_06"/>
+<node id="raw.inventory_bronze_07"/>
+<node id="raw.inventory_bronze_08"/>
+<node id="raw.inventory_bronze_09"/>
+<node id="raw.inventory_bronze_10"/>
+<node id="raw.orders_bronze_01"/>
+<node id="raw.orders_bronze_02"/>
+<node id="raw.orders_bronze_03"/>
+<node id="raw.orders_bronze_04"/>
+<node id="raw.orders_bronze_05"/>
+<node id="raw.orders_bronze_06"/>
+<node id="raw.orders_bronze_07"/>
+<node id="raw.orders_bronze_08"/>
+<node id="raw.orders_bronze_09"/>
+<node id="raw.orders_bronze_10"/>
+<node id="raw.pricing_bronze_01"/>
+<node id="raw.pricing_bronze_02"/>
+<node id="raw.pricing_bronze_03"/>
+<node id="raw.pricing_bronze_04"/>
+<node id="raw.pricing_bronze_05"/>
+<node id="raw.pricing_bronze_06"/>
+<node id="raw.pricing_bronze_07"/>
+<node id="raw.pricing_bronze_08"/>
+<node id="raw.pricing_bronze_09"/>
+<node id="raw.pricing_bronze_10"/>
+<node id="raw.sessions_bronze_01"/>
+<node id="raw.sessions_bronze_02"/>
+<node id="raw.sessions_bronze_03"/>
+<node id="raw.sessions_bronze_04"/>
+<node id="raw.sessions_bronze_05"/>
+<node id="raw.sessions_bronze_06"/>
+<node id="raw.sessions_bronze_07"/>
+<node id="raw.sessions_bronze_08"/>
+<node id="raw.sessions_bronze_09"/>
+<node id="raw.sessions_bronze_10"/>
+<node id="raw.transactions_bronze_01"/>
+<node id="raw.transactions_bronze_02"/>
+<node id="raw.transactions_bronze_03"/>
+<node id="raw.transactions_bronze_04"/>
+<node id="raw.transactions_bronze_05"/>
+<node id="raw.transactions_bronze_06"/>
+<node id="raw.transactions_bronze_07"/>
+<node id="raw.transactions_bronze_08"/>
+<node id="raw.transactions_bronze_09"/>
+<node id="raw.transactions_bronze_10"/>
+<node id="refined.clicks_silver_01"/>
+<node id="refined.clicks_silver_02"/>
+<node id="refined.clicks_silver_03"/>
+<node id="refined.clicks_silver_04"/>
+<node id="refined.clicks_silver_05"/>
+<node id="refined.clicks_silver_06"/>
+<node id="refined.clicks_silver_07"/>
+<node id="refined.clicks_silver_08"/>
+<node id="refined.clicks_silver_09"/>
+<node id="refined.clicks_silver_10"/>
+<node id="refined.customer_silver_01"/>
+<node id="refined.customer_silver_02"/>
+<node id="refined.customer_silver_03"/>
+<node id="refined.customer_silver_04"/>
+<node id="refined.customer_silver_05"/>
+<node id="refined.customer_silver_06"/>
+<node id="refined.customer_silver_07"/>
+<node id="refined.customer_silver_08"/>
+<node id="refined.customer_silver_09"/>
+<node id="refined.customer_silver_10"/>
+<node id="refined.inventory_silver_01"/>
+<node id="refined.inventory_silver_02"/>
+<node id="refined.inventory_silver_03"/>
+<node id="refined.inventory_silver_04"/>
+<node id="refined.inventory_silver_05"/>
+<node id="refined.inventory_silver_06"/>
+<node id="refined.inventory_silver_07"/>
+<node id="refined.inventory_silver_08"/>
+<node id="refined.inventory_silver_09"/>
+<node id="refined.inventory_silver_10"/>
+<node id="refined.orders_silver_01"/>
+<node id="refined.orders_silver_02"/>
+<node id="refined.orders_silver_03"/>
+<node id="refined.orders_silver_04"/>
+<node id="refined.orders_silver_05"/>
+<node id="refined.orders_silver_06"/>
+<node id="refined.orders_silver_07"/>
+<node id="refined.orders_silver_08"/>
+<node id="refined.orders_silver_09"/>
+<node id="refined.orders_silver_10"/>
+<node id="refined.pricing_silver_01"/>
+<node id="refined.pricing_silver_02"/>
+<node id="refined.pricing_silver_03"/>
+<node id="refined.pricing_silver_04"/>
+<node id="refined.pricing_silver_05"/>
+<node id="refined.pricing_silver_06"/>
+<node id="refined.pricing_silver_07"/>
+<node id="refined.pricing_silver_08"/>
+<node id="refined.pricing_silver_09"/>
+<node id="refined.pricing_silver_10"/>
+<node id="refined.sessions_silver_01"/>
+<node id="refined.sessions_silver_02"/>
+<node id="refined.sessions_silver_03"/>
+<node id="refined.sessions_silver_04"/>
+<node id="refined.sessions_silver_05"/>
+<node id="refined.sessions_silver_06"/>
+<node id="refined.sessions_silver_07"/>
+<node id="refined.sessions_silver_08"/>
+<node id="refined.sessions_silver_09"/>
+<node id="refined.sessions_silver_10"/>
+<node id="refined.transactions_silver_01"/>
+<node id="refined.transactions_silver_02"/>
+<node id="refined.transactions_silver_03"/>
+<node id="refined.transactions_silver_04"/>
+<node id="refined.transactions_silver_05"/>
+<node id="refined.transactions_silver_06"/>
+<node id="refined.transactions_silver_07"/>
+<node id="refined.transactions_silver_08"/>
+<node id="refined.transactions_silver_09"/>
+<node id="refined.transactions_silver_10"/>
+<edge source="mart.clicks_gold_01" target="bi.clicks_bi_01">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.clicks_gold_02" target="bi.clicks_bi_02">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.clicks_gold_03" target="bi.clicks_bi_03">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.clicks_gold_04" target="bi.clicks_bi_04">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.clicks_gold_05" target="bi.clicks_bi_05">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.clicks_gold_06" target="bi.clicks_bi_06">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.clicks_gold_07" target="bi.clicks_bi_07">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.clicks_gold_08" target="bi.clicks_bi_08">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.clicks_gold_09" target="bi.clicks_bi_09">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.clicks_gold_10" target="bi.clicks_bi_10">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.customer_gold_01" target="bi.customer_bi_01">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.customer_gold_02" target="bi.customer_bi_02">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.customer_gold_03" target="bi.customer_bi_03">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.customer_gold_04" target="bi.customer_bi_04">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.customer_gold_05" target="bi.customer_bi_05">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.customer_gold_06" target="bi.customer_bi_06">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.customer_gold_07" target="bi.customer_bi_07">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.customer_gold_08" target="bi.customer_bi_08">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.customer_gold_09" target="bi.customer_bi_09">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.customer_gold_10" target="bi.customer_bi_10">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.inventory_gold_01" target="bi.inventory_bi_01">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.inventory_gold_02" target="bi.inventory_bi_02">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.inventory_gold_03" target="bi.inventory_bi_03">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.inventory_gold_04" target="bi.inventory_bi_04">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.inventory_gold_05" target="bi.inventory_bi_05">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.inventory_gold_06" target="bi.inventory_bi_06">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.inventory_gold_07" target="bi.inventory_bi_07">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.inventory_gold_08" target="bi.inventory_bi_08">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.inventory_gold_09" target="bi.inventory_bi_09">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.inventory_gold_10" target="bi.inventory_bi_10">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.orders_gold_01" target="bi.orders_bi_01">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.orders_gold_02" target="bi.orders_bi_02">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.orders_gold_03" target="bi.orders_bi_03">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.orders_gold_04" target="bi.orders_bi_04">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.orders_gold_05" target="bi.orders_bi_05">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.orders_gold_06" target="bi.orders_bi_06">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.orders_gold_07" target="bi.orders_bi_07">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.orders_gold_08" target="bi.orders_bi_08">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.orders_gold_09" target="bi.orders_bi_09">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.orders_gold_10" target="bi.orders_bi_10">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.pricing_gold_01" target="bi.pricing_bi_01">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.pricing_gold_02" target="bi.pricing_bi_02">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.pricing_gold_03" target="bi.pricing_bi_03">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.pricing_gold_04" target="bi.pricing_bi_04">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.pricing_gold_05" target="bi.pricing_bi_05">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.pricing_gold_06" target="bi.pricing_bi_06">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.pricing_gold_07" target="bi.pricing_bi_07">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.pricing_gold_08" target="bi.pricing_bi_08">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.pricing_gold_09" target="bi.pricing_bi_09">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.pricing_gold_10" target="bi.pricing_bi_10">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.sessions_gold_01" target="bi.sessions_bi_01">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.sessions_gold_02" target="bi.sessions_bi_02">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.sessions_gold_03" target="bi.sessions_bi_03">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.sessions_gold_04" target="bi.sessions_bi_04">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.sessions_gold_05" target="bi.sessions_bi_05">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.sessions_gold_06" target="bi.sessions_bi_06">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.sessions_gold_07" target="bi.sessions_bi_07">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.sessions_gold_08" target="bi.sessions_bi_08">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.sessions_gold_09" target="bi.sessions_bi_09">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.sessions_gold_10" target="bi.sessions_bi_10">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.transactions_gold_01" target="bi.transactions_bi_01">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.transactions_gold_02" target="bi.transactions_bi_02">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.transactions_gold_03" target="bi.transactions_bi_03">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.transactions_gold_04" target="bi.transactions_bi_04">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.transactions_gold_05" target="bi.transactions_bi_05">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.transactions_gold_06" target="bi.transactions_bi_06">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.transactions_gold_07" target="bi.transactions_bi_07">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.transactions_gold_08" target="bi.transactions_bi_08">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.transactions_gold_09" target="bi.transactions_bi_09">
+  <data key="d0">publish</data>
+</edge>
+<edge source="mart.transactions_gold_10" target="bi.transactions_bi_10">
+  <data key="d0">publish</data>
+</edge>
+<edge source="raw.clicks_bronze_01" target="refined.clicks_silver_01">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.clicks_bronze_02" target="refined.clicks_silver_02">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.clicks_bronze_03" target="refined.clicks_silver_03">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.clicks_bronze_04" target="refined.clicks_silver_04">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.clicks_bronze_05" target="refined.clicks_silver_05">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.clicks_bronze_06" target="refined.clicks_silver_06">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.clicks_bronze_07" target="refined.clicks_silver_07">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.clicks_bronze_08" target="refined.clicks_silver_08">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.clicks_bronze_09" target="refined.clicks_silver_09">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.clicks_bronze_10" target="refined.clicks_silver_10">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.customer_bronze_01" target="refined.customer_silver_01">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.customer_bronze_02" target="refined.customer_silver_02">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.customer_bronze_03" target="refined.customer_silver_03">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.customer_bronze_04" target="refined.customer_silver_04">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.customer_bronze_05" target="refined.customer_silver_05">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.customer_bronze_06" target="refined.customer_silver_06">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.customer_bronze_07" target="refined.customer_silver_07">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.customer_bronze_08" target="refined.customer_silver_08">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.customer_bronze_09" target="refined.customer_silver_09">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.customer_bronze_10" target="refined.customer_silver_10">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.inventory_bronze_01" target="refined.inventory_silver_01">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.inventory_bronze_02" target="refined.inventory_silver_02">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.inventory_bronze_03" target="refined.inventory_silver_03">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.inventory_bronze_04" target="refined.inventory_silver_04">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.inventory_bronze_05" target="refined.inventory_silver_05">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.inventory_bronze_06" target="refined.inventory_silver_06">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.inventory_bronze_07" target="refined.inventory_silver_07">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.inventory_bronze_08" target="refined.inventory_silver_08">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.inventory_bronze_09" target="refined.inventory_silver_09">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.inventory_bronze_10" target="refined.inventory_silver_10">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.orders_bronze_01" target="refined.orders_silver_01">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.orders_bronze_02" target="refined.orders_silver_02">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.orders_bronze_03" target="refined.orders_silver_03">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.orders_bronze_04" target="refined.orders_silver_04">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.orders_bronze_05" target="refined.orders_silver_05">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.orders_bronze_06" target="refined.orders_silver_06">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.orders_bronze_07" target="refined.orders_silver_07">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.orders_bronze_08" target="refined.orders_silver_08">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.orders_bronze_09" target="refined.orders_silver_09">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.orders_bronze_10" target="refined.orders_silver_10">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.pricing_bronze_01" target="refined.pricing_silver_01">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.pricing_bronze_02" target="refined.pricing_silver_02">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.pricing_bronze_03" target="refined.pricing_silver_03">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.pricing_bronze_04" target="refined.pricing_silver_04">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.pricing_bronze_05" target="refined.pricing_silver_05">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.pricing_bronze_06" target="refined.pricing_silver_06">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.pricing_bronze_07" target="refined.pricing_silver_07">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.pricing_bronze_08" target="refined.pricing_silver_08">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.pricing_bronze_09" target="refined.pricing_silver_09">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.pricing_bronze_10" target="refined.pricing_silver_10">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.sessions_bronze_01" target="refined.sessions_silver_01">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.sessions_bronze_02" target="refined.sessions_silver_02">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.sessions_bronze_03" target="refined.sessions_silver_03">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.sessions_bronze_04" target="refined.sessions_silver_04">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.sessions_bronze_05" target="refined.sessions_silver_05">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.sessions_bronze_06" target="refined.sessions_silver_06">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.sessions_bronze_07" target="refined.sessions_silver_07">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.sessions_bronze_08" target="refined.sessions_silver_08">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.sessions_bronze_09" target="refined.sessions_silver_09">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.sessions_bronze_10" target="refined.sessions_silver_10">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.transactions_bronze_01" target="refined.transactions_silver_01">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.transactions_bronze_02" target="refined.transactions_silver_02">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.transactions_bronze_03" target="refined.transactions_silver_03">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.transactions_bronze_04" target="refined.transactions_silver_04">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.transactions_bronze_05" target="refined.transactions_silver_05">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.transactions_bronze_06" target="refined.transactions_silver_06">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.transactions_bronze_07" target="refined.transactions_silver_07">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.transactions_bronze_08" target="refined.transactions_silver_08">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.transactions_bronze_09" target="refined.transactions_silver_09">
+  <data key="d0">transform</data>
+</edge>
+<edge source="raw.transactions_bronze_10" target="refined.transactions_silver_10">
+  <data key="d0">transform</data>
+</edge>
+<edge source="refined.clicks_silver_01" target="mart.clicks_gold_01">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.clicks_silver_02" target="mart.clicks_gold_02">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.clicks_silver_03" target="mart.clicks_gold_03">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.clicks_silver_04" target="mart.clicks_gold_04">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.clicks_silver_05" target="mart.clicks_gold_05">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.clicks_silver_06" target="mart.clicks_gold_06">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.clicks_silver_07" target="mart.clicks_gold_07">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.clicks_silver_08" target="mart.clicks_gold_08">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.clicks_silver_09" target="mart.clicks_gold_09">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.clicks_silver_10" target="mart.clicks_gold_10">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.customer_silver_01" target="mart.customer_gold_01">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.customer_silver_02" target="mart.customer_gold_02">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.customer_silver_03" target="mart.customer_gold_03">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.customer_silver_04" target="mart.customer_gold_04">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.customer_silver_05" target="mart.customer_gold_05">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.customer_silver_06" target="mart.customer_gold_06">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.customer_silver_07" target="mart.customer_gold_07">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.customer_silver_08" target="mart.customer_gold_08">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.customer_silver_09" target="mart.customer_gold_09">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.customer_silver_10" target="mart.customer_gold_10">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.inventory_silver_01" target="mart.inventory_gold_01">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.inventory_silver_02" target="mart.inventory_gold_02">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.inventory_silver_03" target="mart.inventory_gold_03">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.inventory_silver_04" target="mart.inventory_gold_04">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.inventory_silver_05" target="mart.inventory_gold_05">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.inventory_silver_06" target="mart.inventory_gold_06">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.inventory_silver_07" target="mart.inventory_gold_07">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.inventory_silver_08" target="mart.inventory_gold_08">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.inventory_silver_09" target="mart.inventory_gold_09">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.inventory_silver_10" target="mart.inventory_gold_10">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.orders_silver_01" target="mart.orders_gold_01">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.orders_silver_02" target="mart.orders_gold_02">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.orders_silver_03" target="mart.orders_gold_03">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.orders_silver_04" target="mart.orders_gold_04">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.orders_silver_05" target="mart.orders_gold_05">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.orders_silver_06" target="mart.orders_gold_06">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.orders_silver_07" target="mart.orders_gold_07">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.orders_silver_08" target="mart.orders_gold_08">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.orders_silver_09" target="mart.orders_gold_09">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.orders_silver_10" target="mart.orders_gold_10">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.pricing_silver_01" target="mart.pricing_gold_01">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.pricing_silver_02" target="mart.pricing_gold_02">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.pricing_silver_03" target="mart.pricing_gold_03">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.pricing_silver_04" target="mart.pricing_gold_04">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.pricing_silver_05" target="mart.pricing_gold_05">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.pricing_silver_06" target="mart.pricing_gold_06">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.pricing_silver_07" target="mart.pricing_gold_07">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.pricing_silver_08" target="mart.pricing_gold_08">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.pricing_silver_09" target="mart.pricing_gold_09">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.pricing_silver_10" target="mart.pricing_gold_10">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.sessions_silver_01" target="mart.sessions_gold_01">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.sessions_silver_02" target="mart.sessions_gold_02">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.sessions_silver_03" target="mart.sessions_gold_03">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.sessions_silver_04" target="mart.sessions_gold_04">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.sessions_silver_05" target="mart.sessions_gold_05">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.sessions_silver_06" target="mart.sessions_gold_06">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.sessions_silver_07" target="mart.sessions_gold_07">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.sessions_silver_08" target="mart.sessions_gold_08">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.sessions_silver_09" target="mart.sessions_gold_09">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.sessions_silver_10" target="mart.sessions_gold_10">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.transactions_silver_01" target="mart.transactions_gold_01">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.transactions_silver_02" target="mart.transactions_gold_02">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.transactions_silver_03" target="mart.transactions_gold_03">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.transactions_silver_04" target="mart.transactions_gold_04">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.transactions_silver_05" target="mart.transactions_gold_05">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.transactions_silver_06" target="mart.transactions_gold_06">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.transactions_silver_07" target="mart.transactions_gold_07">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.transactions_silver_08" target="mart.transactions_gold_08">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.transactions_silver_09" target="mart.transactions_gold_09">
+  <data key="d0">aggregate</data>
+</edge>
+<edge source="refined.transactions_silver_10" target="mart.transactions_gold_10">
+  <data key="d0">aggregate</data>
+</edge>
+</graph></graphml>
